@@ -1,0 +1,10 @@
+pandas
+torch
+tensorflow
+streamlit
+transformers
+datasets
+numpy
+psycopg2-binary
+SQLAlchemy
+Pillow
