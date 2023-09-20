@@ -2,11 +2,11 @@
 
 This repository provides instructions and code for setting up a Skin Cancer Image Semantic Search engine leveraging VMware Greenplum as Vector Database.
 
-![Streamlit App](streamlit_app.png)
+![Streamlit App](streamlit_app.gif)
 
 ## Getting Started
 
-Follow these steps to set up the audio search system on your local machine.
+Follow these steps to set up the Skin Image Search System on your local machine.
 
 ### Prerequisites
 
